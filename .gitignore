@@ -1,0 +1,8 @@
+#
+*.pdb
+*.exe
+*.dll
+*.log
+obj
+Properties
+log4net.xml
