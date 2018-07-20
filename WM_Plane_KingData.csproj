@@ -78,7 +78,6 @@
     <Compile Include="Common\MySqlDatabaseUtil.cs" />
     <Compile Include="DAO\DAOImpl\KingDataDaoImpl.cs" />
     <Compile Include="DAO\IKingDataDAO.cs" />
-    <Compile Include="Model\KingData.cs" />
     <Compile Include="Procedure.cs" />
     <Compile Include="Util\FML300Util.cs" />
     <Compile Include="Util\AscFileHelper.cs" />
