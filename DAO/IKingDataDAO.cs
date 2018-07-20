@@ -4,7 +4,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 
-namespace WM_Plane_CreateDBImport.DAO
+namespace WM_Plane_KingData.DAO
 {
     public interface IKingDataDAO
     {

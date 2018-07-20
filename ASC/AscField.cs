@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace WM_Plane_CreateDBImport
+namespace WM_Plane_KingData
 {
     /// <summary>
     /// 针对此项目中的ASC文件产生的此Field类，为了程序解析ASC文件中的字段

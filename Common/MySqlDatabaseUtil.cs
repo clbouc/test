@@ -1,11 +1,8 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
 
-namespace WM_Plane_CreateDBImport.Common
+namespace WM_Plane_KingData.Common
 {
     //采用singleton模式
     public static class MySqlDatabaseUtil

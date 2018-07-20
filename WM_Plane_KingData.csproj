@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>WM_Plane_MY</RootNamespace>
     <AssemblyName>WM_Plane_MY</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
@@ -74,8 +74,8 @@
   <ItemGroup>
     <Compile Include="ASC\AdvancedAscField.cs" />
     <Compile Include="ASC\FML300Field.cs" />
-    <Compile Include="Common\MySqlDatabaseUtil.cs" />
     <Compile Include="Common\ConfigurationHelper.cs" />
+    <Compile Include="Common\MySqlDatabaseUtil.cs" />
     <Compile Include="DAO\DAOImpl\KingDataDaoImpl.cs" />
     <Compile Include="DAO\IKingDataDAO.cs" />
     <Compile Include="Model\KingData.cs" />
@@ -117,6 +117,5 @@
   <ItemGroup>
     <None Include="readme.md" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

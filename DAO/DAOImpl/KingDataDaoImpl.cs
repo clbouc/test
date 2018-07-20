@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using WM_Plane_CreateDBImport.Common;
+using WM_Plane_KingData.Common;
 
-namespace WM_Plane_CreateDBImport.DAO.DAOImpl
+namespace WM_Plane_KingData.DAO.DAOImpl
 {
     class KingDataDaoImpl : IKingDataDAO
     {

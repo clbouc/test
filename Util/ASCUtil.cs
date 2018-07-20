@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace WM_Plane_CreateDBImport.Util
+namespace WM_Plane_KingData.Util
 {
     public static class ASCUtil
     {

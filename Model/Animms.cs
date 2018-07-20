@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using WM_Plane_CreateDBImport.Util;
+using WM_Plane_KingData.Util;
 
-namespace WM_Plane_CreateDBImport.Model
+namespace WM_Plane_KingData.Model
 {
     public class Aimms :ModelCommon
     {

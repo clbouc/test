@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using WM_Plane_MY.ASC;
 
-namespace WM_Plane_CreateDBImport.Util
+namespace WM_Plane_KingData.Util
 {
   
     public static class FML300Util

@@ -3,13 +3,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
-using WM_Plane_CreateDBImport.Common;
-using WM_Plane_CreateDBImport.Model;
-using WM_Plane_CreateDBImport.Util;
+using WM_Plane_KingData.Common;
+using WM_Plane_KingData.Model;
+using WM_Plane_KingData.Util;
 using WM_Plane_MY.Util;
 
-namespace WM_Plane_CreateDBImport
+namespace WM_Plane_KingData
 {
     /// <summary>
     /// 处理空中国王数据,主要是建表，和批量导入数据

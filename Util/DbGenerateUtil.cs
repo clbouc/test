@@ -4,11 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using WM_Plane_CreateDBImport.Common;
-using WM_Plane_CreateDBImport.Model;
-using WM_Plane_CreateDBImport.Util;
+using WM_Plane_KingData.Common;
 
-namespace WM_Plane_CreateDBImport.Util
+namespace WM_Plane_KingData.Util
 {
     //主要是用来生成sql create table 语句
     public static class DbGenerateUtil

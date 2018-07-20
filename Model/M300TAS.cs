@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using WM_Plane_CreateDBImport.Util;
+using WM_Plane_KingData.Util;
 
-namespace WM_Plane_CreateDBImport.Model
+namespace WM_Plane_KingData.Model
 {
     public class M300TAS:ModelCommon
     {

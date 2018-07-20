@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
-using System.Linq;
-using System.Text;
 
-namespace WM_Plane_CreateDBImport.Common
+namespace WM_Plane_KingData.Common
 {
     public static class ConfigurationHelper
     {

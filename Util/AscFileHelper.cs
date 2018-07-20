@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using WM_Plane_CreateDBImport.ASC;
+using WM_Plane_KingData.ASC;
 using WM_Plane_MY.ASC;
 
-namespace WM_Plane_CreateDBImport.Util
+namespace WM_Plane_KingData.Util
 {
     public class AscFileHelper
     {

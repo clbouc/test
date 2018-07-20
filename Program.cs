@@ -1,9 +1,9 @@
 ﻿using log4net;
 using System;
 using System.IO;
-using WM_Plane_CreateDBImport.Common;
+using WM_Plane_KingData.Common;
 
-namespace WM_Plane_CreateDBImport
+namespace WM_Plane_KingData
 {
 
     class Program

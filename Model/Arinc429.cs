@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using WM_Plane_CreateDBImport.Util;
+using WM_Plane_KingData.Util;
 
-namespace WM_Plane_CreateDBImport.Model
+namespace WM_Plane_KingData.Model
 {
     public class Arinc429:ModelCommon
     {

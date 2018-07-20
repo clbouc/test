@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.IO;
-using WM_Plane_CreateDBImport.Util;
-using WM_Plane_CreateDBImport.Model;
+using WM_Plane_KingData.Util;
+using WM_Plane_KingData.Model;
 
-namespace WM_Plane_CreateDBImport.Util
+namespace WM_Plane_KingData.Util
 {
    
     public static class ModelUtil
